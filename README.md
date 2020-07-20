@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **electronics and coding, security and HTB**
 
-- ⚡ Fun fact **I can talk about Arch Linux, Tmux, Vim all day long **
+- ⚡ Fun fact **I can talk about Arch Linux, Tmux, Vim all day long**
 
 <p align="left">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
