@@ -32,6 +32,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" />
 </a>
 
+<br>
 
 <p align="center">
 <a href="https://linkedin.com/in/johnstilia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="johnstilia" height="20" width="20" /></a>
