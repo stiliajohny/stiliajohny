@@ -22,13 +22,15 @@
 <img src="https://www.archlinux.org/static/logos/legacy/arch-legacy-blue2.3b770e580065.svg" alt="arch" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon-Vim.svg" alt="arch" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Tmux_logo.png" alt="arch" width="60" height="20"/>
-
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true" alt="stiliajohny" /> 
 
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" />
+</a>
 
 
 <p align="center">
