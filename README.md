@@ -35,10 +35,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact"  width="500" height="200"/></a>
 </p>
 
-<br>
-<br>
-
-
 <!--
 <p align="center">
   
