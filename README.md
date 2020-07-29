@@ -8,11 +8,9 @@
 
 - ⚡ Fun fact **I can talk about Arch Linux, Tmux, Vim all day long**
 
-<html>
-  <head>
-     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-  </head>
-<body>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+
 
 <br>
 
@@ -54,5 +52,3 @@
 </p>
 -->
 
-</body>
-</html>
