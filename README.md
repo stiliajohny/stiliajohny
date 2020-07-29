@@ -28,11 +28,11 @@
 -->
 
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true" width="500" height="200" /></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true" width="500" height="200" /></a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact"  width="500" height="200"/></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact"  width="500" height="200"/></a>
 </p>
 
 <br>
