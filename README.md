@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I can talk about Arch Linux, Tmux, Vim all day long**
 
-
+<!---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 
 
@@ -25,9 +25,9 @@
 <img src="https://www.archlinux.org/static/logos/legacy/arch-legacy-blue2.3b770e580065.svg" alt="arch" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon-Vim.svg" alt="arch" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Tmux_logo.png" alt="arch" width="60" height="20"/>
+-->
 
-<br>
-<br>
+
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true" width="500" height="200" /></a>
