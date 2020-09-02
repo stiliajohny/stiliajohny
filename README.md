@@ -30,7 +30,11 @@
 
 
 
-<img align="left" alt="John's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" />
+<img align="left" alt="John's Github Stats" height=100 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/johnstilia/r
 [instagram]: https://www.instagram.com/johnstilia.cyber
+
+<img src="https://stiliajohny-readme.vercel.app/api/spotify" height="120" height="200">
+
+
