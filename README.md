@@ -2,9 +2,6 @@
 
 #### I am a tech enthusiast with particular interest on coding and DevSecOps things, Infrastructure and Security interests me as a whole. I often find myself coding late in the night.
 
-🔭 I’m currently working on a **Python, Docker and security projects**
-
-🥅 2020 Goals: Contribute more to **Cyber Security related projects**
 
 ### Connect with me:
 
