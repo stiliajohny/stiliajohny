@@ -22,7 +22,7 @@
 <br>
 
 ### Languages and Tools and other lovable tech:
-
+<p>
 <img align="left" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/gnubash.svg" />
@@ -30,29 +30,14 @@
 <img align="left" width="26px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/docker.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/kubernetes.svg" />
+</p>
 
-
-
-<br>
-
-
-
-
+<p>
 <img align="left" width="26px" src="https://simpleicons.org/icons/kibana.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/elasticsearch.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/ansible.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
-<img align="left" width="26px" src="" />
-<img align="left" width="26px" src="" />
-<img align="left" width="26px" src="" />
-
-
-
-
-
-<br />
-<br />
-
+</p>
 
 
 <img align="left" alt="John's Github Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" />
