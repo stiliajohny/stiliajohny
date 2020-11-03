@@ -30,18 +30,19 @@
 <img align="left" width="26px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/docker.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/kubernetes.svg" />
-</p>
 
-<p>
+<br>
+
 <img align="left" width="26px" src="https://simpleicons.org/icons/kibana.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/elasticsearch.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/ansible.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
 </p>
 
-
+<p>
 <img align="left" alt="John's Github Stats" height=130 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" />
 <img src="https://stiliajohny-readme.vercel.app/api/spotify" height="120">
+</p>
 
 [linkedin]: https://www.linkedin.com/in/johnstilia/r
 [instagram]: https://www.instagram.com/johnstilia.cyber
