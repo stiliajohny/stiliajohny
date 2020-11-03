@@ -38,14 +38,13 @@
 <img align="left" width="26px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/docker.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/kubernetes.svg" /> 
-</p>
-<p>
 <img align="left" width="26px" src="https://simpleicons.org/icons/kibana.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/elasticsearch.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/ansible.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
 </p>
 
+<br>
 <p>
 <br>
 
