@@ -30,7 +30,7 @@
 <img align="left" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/archlinux.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/vim.svg" />
-<img align="left" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/048/square_280/tmux.png" />
+<img align="left" width="26px" src="https://simpleicons.org/icons/tmux.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/prometheus.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/grafana.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/docker.svg" />
