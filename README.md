@@ -27,13 +27,16 @@
 <img align="left" width="26px" src="https://simpleicons.org/icons/kibana.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/elasticsearch.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/ansible.svg" />
-<img align="left" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/archlinux.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/vim.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/tmux.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/prometheus.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/grafana.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/docker.svg" />
+<img align="left" width="26px" src="https://simpleicons.org/icons/proxmox.svg" />
+<img align="left" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
+
+
 </p>
 
 <br>
