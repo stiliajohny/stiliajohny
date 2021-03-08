@@ -10,7 +10,7 @@
   
 ### Connect with me:
 
-[<img align="left" alt="stiliajohny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="stiliajohny | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="stiliajohny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="stiliajohny | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
 </p>
 
 <p>
@@ -47,4 +47,4 @@
 <p>
 
 [linkedin]: https://www.linkedin.com/in/johnstilia/r
-[instagram]: https://www.instagram.com/johnstilia.cyber
+[gmail]: mailto:stilia.johny+github@gmail.com
