@@ -39,7 +39,7 @@
 <br>
 <p>
 <br>
-<img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" /><img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" /><img align="left" alt="John's Github Stats" height=80 src="https://stiliajohny-readme.vercel.app/api/spotify" height="120">
+<img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" /><img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" />
 <p>
 
 [linkedin]: https://www.linkedin.com/in/johnstilia/r
