@@ -39,8 +39,11 @@
 <br>
 <p>
 <br>
-<img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" /><img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" />
+<img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" /><img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/d20a09e9-c93a-479c-a670-3653b145f03a.svg" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/491e6a1a-fdcb-49e3-8a3b-1e38b2939791.svg" />
 <p>
+  
+  
+
 
 [linkedin]: https://www.linkedin.com/in/johnstilia/r
 [gmail]: mailto:stilia.johny+github@gmail.com
