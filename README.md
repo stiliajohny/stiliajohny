@@ -39,7 +39,7 @@
 <br>
 <p>
 <br>
-<img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" /><img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/453599e0-6a6b-4b8d-8b77-8ceca34efacc.svg" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/eb255552-fbdd-4ca5-ad5a-9fa43df5a536.svg" />
+<img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" /><img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/6493ccfb-6900-428c-a36f-e1c64c0374b3.png" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/fbc575e4-3ca8-408f-80c5-494103807e6f.png" />
 <p>
   
   
