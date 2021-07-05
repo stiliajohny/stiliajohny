@@ -1,3 +1,7 @@
+<html>
+  <head>
+  </head>
+<body>  
 
 <p>
 
@@ -7,10 +11,10 @@
 
   
 ### Connect with me:
-
-[<img align="left" alt="stiliajohny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="stiliajohny | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
+  
+<a href="https://www.linkedin.com/in/johnstilia/r"> <img align="left" alt="stiliajohny | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/></a>
+<a href="mailto:stilia.johny+github@gmail.com"><img align="left" alt="stiliajohny | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
 </p>
-
 <p>
 <br>
   
@@ -42,8 +46,5 @@
 <img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" /><img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/6493ccfb-6900-428c-a36f-e1c64c0374b3.png" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/fbc575e4-3ca8-408f-80c5-494103807e6f.png" />
 <p>
   
-  
-
-
-[linkedin]: https://www.linkedin.com/in/johnstilia/r
-[gmail]: mailto:stilia.johny+github@gmail.com
+  </body>
+</html>
