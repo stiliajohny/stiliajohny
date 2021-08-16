@@ -14,6 +14,10 @@
   
 <a href="https://www.linkedin.com/in/johnstilia/r"> <img align="left" alt="stiliajohny | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/></a>
 <a href="mailto:stilia.johny+github@gmail.com"><img align="left" alt="stiliajohny | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
+<a href="https://join.slack.com/t/darkmamba/shared_invite/zt-uq11xbps-zIovONZDvfjSKPLyBQrnuA"><img align="left" alt="stiliajohny | Slack" width="22px" src="https://simpleicons.org/icons/slack.svg"/></a>
+  
+  
+
 </p>
 <p>
 <br>
