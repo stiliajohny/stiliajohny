@@ -3,7 +3,8 @@
 
 ### Hi there, I'm  John  👋
 
-#### I am a tech enthusiast with particular interest on coding and DevSecOps things, Infrastructure and Security interests me as a whole. I often find myself coding late in the night.
+#### I am a tech enthusiast with a particular interest in coding and DevSecOps things. I often find myself coding late in the night. Infrastructure and Security interest me as a whole.
+Talk to me about Arch Linux and Linux in general, Docker and containerization, Microcontrollers and IoT or Motorbikes.
 
   
 ### Connect with me:
