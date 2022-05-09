@@ -47,10 +47,6 @@ Talk to me about Arch Linux and Linux in general, Docker and containerization, M
   
 ---
   
-<img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" /><img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/6493ccfb-6900-428c-a36f-e1c64c0374b3.png" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/fbc575e4-3ca8-408f-80c5-494103807e6f.png" />
-<p>
-<br><br><br><br>
-  
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Ways to Support Your Coworkers With ADHD v1.0](https://irunarchbtw.blog/2022/05/10-adhd-coworker/)
@@ -59,7 +55,11 @@ Talk to me about Arch Linux and Linux in general, Docker and containerization, M
 - [View AWS CLI logs in Real-Time](https://irunarchbtw.blog/2021/12/aws-cloudwatch-tail-logs/)
 - [Play with log4shell; just for fun.](https://irunarchbtw.blog/2021/12/play-with-log4shell-just-for-fun./)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### Stats for the Geeks 
   
-  
+<img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiliajohny&layout=compact" /><img align="left" alt="John's Github Stats" height=80 src="https://github-readme-stats.vercel.app/api?username=stiliajohny&show_icons=true&hide_border=true" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/6493ccfb-6900-428c-a36f-e1c64c0374b3.png" /><img align="left" alt="John's Github Stats" height=80 src="https://wakatime.com/share/@stiliajohny/fbc575e4-3ca8-408f-80c5-494103807e6f.png" />  
   </body>
 </html>
