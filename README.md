@@ -52,7 +52,7 @@ Talk to me about Arch Linux and Linux in general, Docker and containerization, M
 <br><br><br><br>
   
 # Blog posts
-<!-- BLOG-POST-LIST:START -->$emojiKey : [Ways to Support Your Coworkers With ADHD v1.0](https://irunarchbtw.blog/2022/05/10-adhd-coworker/) : $emojiKey : [Speed up Docker builds with a local cache proxy](https://irunarchbtw.blog/2022/05/docker-squid/) : $emojiKey : [Devcontainers: Clean environment everytime](https://irunarchbtw.blog/2022/04/devcontainers/) : $emojiKey : [View AWS CLI logs in Real-Time](https://irunarchbtw.blog/2021/12/aws-cloudwatch-tail-logs/) : $emojiKey : [Play with log4shell; just for fun.](https://irunarchbtw.blog/2021/12/play-with-log4shell-just-for-fun./) : <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->$randomEmoji [Ways to Support Your Coworkers With ADHD v1.0](https://irunarchbtw.blog/2022/05/10-adhd-coworker/)$randomEmoji [Speed up Docker builds with a local cache proxy](https://irunarchbtw.blog/2022/05/docker-squid/)$randomEmoji [Devcontainers: Clean environment everytime](https://irunarchbtw.blog/2022/04/devcontainers/)$randomEmoji [View AWS CLI logs in Real-Time](https://irunarchbtw.blog/2021/12/aws-cloudwatch-tail-logs/)$randomEmoji [Play with log4shell; just for fun.](https://irunarchbtw.blog/2021/12/play-with-log4shell-just-for-fun./)<!-- BLOG-POST-LIST:END -->
   
   
   </body>
