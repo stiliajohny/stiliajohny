@@ -54,15 +54,10 @@ Talk to me about Arch Linux and Linux in general, Docker and containerization, M
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 [Ways to Support Your Coworkers With ADHD v1.0](https://irunarchbtw.blog/2022/05/10-adhd-coworker/)
-
 [Speed up Docker builds with a local cache proxy](https://irunarchbtw.blog/2022/05/docker-squid/)
-
 [Devcontainers: Clean environment everytime](https://irunarchbtw.blog/2022/04/devcontainers/)
-
 [View AWS CLI logs in Real-Time](https://irunarchbtw.blog/2021/12/aws-cloudwatch-tail-logs/)
-
-[Play with log4shell; just for fun.](https://irunarchbtw.blog/2021/12/play-with-log4shell-just-for-fun./)
-<!-- BLOG-POST-LIST:END -->
+[Play with log4shell; just for fun.](https://irunarchbtw.blog/2021/12/play-with-log4shell-just-for-fun./)<!-- BLOG-POST-LIST:END -->
   
   
   </body>
