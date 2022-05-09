@@ -51,7 +51,7 @@ Talk to me about Arch Linux and Linux in general, Docker and containerization, M
 <p>
 <br><br><br><br>
   
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Ways to Support Your Coworkers With ADHD v1.0](https://irunarchbtw.blog/2022/05/10-adhd-coworker/)
 - [Speed up Docker builds with a local cache proxy](https://irunarchbtw.blog/2022/05/docker-squid/)
