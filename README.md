@@ -49,11 +49,11 @@ Talk to me about Arch Linux and Linux in general, Docker and containerization, M
   
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mono-repo VS Multi-repo VS Poly-as-Mono](https://iusearchbtw.blog/2022/05/repo-strategy/)
 - [Ways to Support Your Coworkers With ADHD v1.0](https://iusearchbtw.blog/2022/05/10-adhd-coworker/)
 - [Speed up Docker builds with a local cache proxy](https://iusearchbtw.blog/2022/05/docker-squid/)
 - [Devcontainers: Clean environment everytime](https://iusearchbtw.blog/2022/04/devcontainers/)
 - [View AWS CLI logs in Real-Time](https://iusearchbtw.blog/2021/12/aws-cloudwatch-tail-logs/)
-- [Play with log4shell; just for fun.](https://iusearchbtw.blog/2021/12/play-with-log4shell-just-for-fun./)
 <!-- BLOG-POST-LIST:END -->
 
 ---
