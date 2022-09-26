@@ -49,11 +49,11 @@ Talk to me about Arch Linux and Linux in general, Docker and containerization, M
   
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick Ride to Wales with XSR900](https://iusearchbtw.blog/2022/09/wales-quick-tour/)
 - [Motorcycle Touring Checklist](https://iusearchbtw.blog/2022/09/moto-touring-checklist/)
 - [Use AWS as DNS instead of your Domain Registrar &lpar;in simple steps&rpar;.](https://iusearchbtw.blog/2022/09/aws-route53-dns/)
 - [Building a GPS tracker for fun and profit](https://iusearchbtw.blog/2022/08/gps-tracker-1/)
 - [Mono-repo VS Multi-repo VS Poly-as-Mono](https://iusearchbtw.blog/2022/05/repo-strategy/)
-- [Ways to Support Your Coworkers With ADHD v1.0](https://iusearchbtw.blog/2022/05/10-adhd-coworker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
