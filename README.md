@@ -49,11 +49,11 @@ Talk to me about Arch Linux and Linux in general, Docker and containerization, M
   
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Playing with an GSM modem &lpar;SIM800L&rpar;](https://iusearchbtw.blog/2022/11/at-modem/)
 - [Wales 3 days round trip on a Tracer 9 GT](https://iusearchbtw.blog/2022/10/wales-tracer-9-gt/)
 - [Calendar Tetris](https://iusearchbtw.blog/2022/10/tetris-calendar/)
 - [[note to my self] AWS Route53 Health Check Monitoring](https://iusearchbtw.blog/2022/10/r53health-cwalert-sns/)
 - [Quick Ride to Wales with XSR900](https://iusearchbtw.blog/2022/09/wales-quick-tour/)
-- [Motorcycle Touring Checklist](https://iusearchbtw.blog/2022/09/moto-touring-checklist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
