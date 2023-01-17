@@ -49,11 +49,11 @@ Talk to me about Arch Linux and Linux in general, Docker and containerization, M
   
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to always run local-exec with Terraform](https://indraft.blog/2023/01/local_exec_always_run/)
 - [Make a coffee - Why more infrastructure incidents can be a good thing](https://indraft.blog/2022/12/more-incidents/)
 - [Playing with a GSM modem &lpar;SIM800L&rpar;](https://indraft.blog/2022/11/at-modem/)
 - [Wales 3 days round trip on a Tracer 9 GT](https://indraft.blog/2022/10/wales-tracer-9-gt/)
 - [Calendar Tetris](https://indraft.blog/2022/10/tetris-calendar/)
-- [[note to my self] AWS Route53 Health Check Monitoring](https://indraft.blog/2022/10/r53health-cwalert-sns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
