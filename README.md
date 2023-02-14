@@ -3,22 +3,23 @@
 
 ### Hi there, I'm  John  👋
 
-#### I am a tech enthusiast with a particular interest in coding and DevSecOps things. I often find myself coding late in the night. Infrastructure and Security interest me as a whole.
-Talk to me about Arch Linux and Linux in general, Docker and containerization, Microcontrollers and IoT or Motorbikes.
+ 
+Hey there, I'm a tech lover who gets a rush from coding and tinkering with all things DevSecOps. You might catch me burning the midnight oil, working on some cool projects. I'm fascinated by all things Infrastructure and Security, so feel free to hit me up if you want to chat about them.
 
+If you want to really get me excited, let's talk about Arch Linux and Linux in general. I'm also a big fan of Docker and containerization, as well as Microcontrollers and IoT. And when I'm not geeking out on tech, you might find me cruising around on my motorbike. Let's connect and share our passions!
   
 ### Connect with me:
   
 <a href="https://www.linkedin.com/in/johnstilia/r"> <img align="left" alt="stiliajohny | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/></a>
-<a href="mailto:john.stilia@iusearchbtw.blog"><img align="left" alt="stiliajohny | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
-<a href="https://join.slack.com/t/darkmamba/shared_invite/zt-uq11xbps-zIovONZDvfjSKPLyBQrnuA"><img align="left" alt="stiliajohny | Slack" width="22px" src="https://simpleicons.org/icons/slack.svg"/></a>
+<a href="mailto:stilia.johny@gmail.com"><img align="left" alt="stiliajohny | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
   
-  
-
-</p>
-<p>
 <br>
 
+### What I am developing these days 
+  - PastePortal
+    - [VSCode extension](https://marketplace.visualstudio.com/items?itemName=JohnStilia.pasteportal)
+    - [Frontend](https://pasteportal.info) 
+  
 ### Tools, languages and other lovable tech:
 
 <img align="left" width="26px" src="https://simpleicons.org/icons/github.svg" /> 
