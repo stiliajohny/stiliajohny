@@ -19,6 +19,7 @@ If you want to really get me excited, let's talk about Arch Linux and Linux in g
   - PastePortal
     - [VSCode extension](https://marketplace.visualstudio.com/items?itemName=JohnStilia.pasteportal)
     - [Frontend](https://pasteportal.info) 
+    - [Repo](https://github.com/stiliajohny/pasteportal)
   
 ### Tools, languages and other lovable tech:
 
