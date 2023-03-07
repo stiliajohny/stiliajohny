@@ -22,6 +22,8 @@ If you want to really get me excited, let's talk about Arch Linux and Linux in g
     - [Repo](https://github.com/stiliajohny/pasteportal)
   - LazyLogx
     - [VSCode extension](https://marketplace.visualstudio.com/items?itemName=JohnStilia.lazylogx)
+    - [Repo](https://github.com/stiliajohnylazylogx)
+
 
   
 ### Tools, languages and other lovable tech:
