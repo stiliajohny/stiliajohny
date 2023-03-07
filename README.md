@@ -54,11 +54,11 @@ If you want to really get me excited, let's talk about Arch Linux and Linux in g
   
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup MacOs for Go Development](https://indraft.blog/2023/03/go-develop-ide/)
 - [How to always run local-exec with Terraform](https://indraft.blog/2023/01/local_exec_always_run/)
 - [Make a coffee - Why more infrastructure incidents can be a good thing](https://indraft.blog/2022/12/more-incidents/)
 - [Playing with a GSM modem &lpar;SIM800L&rpar;](https://indraft.blog/2022/11/at-modem/)
 - [Wales 3 days round trip on a Tracer 9 GT](https://indraft.blog/2022/10/wales-tracer-9-gt/)
-- [Calendar Tetris](https://indraft.blog/2022/10/tetris-calendar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
