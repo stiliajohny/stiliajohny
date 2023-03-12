@@ -13,7 +13,8 @@ Let's chat about Arch Linux, Docker, Microcontrollers, and IoT! When I'm not wor
 <a href="https://www.linkedin.com/in/johnstilia/r"> <img align="left" alt="stiliajohny | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/></a>
 <a href="mailto:stilia.johny@gmail.com"><img align="left" alt="stiliajohny | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
   
-
+<br>
+ 
 ### Tools, languages and other lovable tech:
 
 <img align="left" width="26px" src="https://simpleicons.org/icons/github.svg" /> 
