@@ -45,11 +45,11 @@ Let's chat about Arch Linux, Docker, Microcontrollers, and IoT! When I'm not wor
   
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Crontab vs Systemd Timers: Harnessing the Power of Scheduling in Modern Linux Systems](https://indraft.blog/2023/03/systemd_crontab/)
 - [Dodging Code Review Pitfalls: A Guide to Smoother Software Development](https://indraft.blog/2023/03/pr-mistakes/)
 - [Benefits And Drawbacks Of Using Aws Lambda For Serverless Application Development.](https://indraft.blog/2023/03/serverless_aws_lambda_benefits/)
 - [Unconcious Bias in hiring: The Impact of Recruitment Bias on the Workforce](https://indraft.blog/2023/03/recruitment-bias/)
 - [Color Harmony Rules: How Different Palettes Impact Design and Emotions](https://indraft.blog/2023/03/colorwheels/)
-- [Setup MacOs for Go Development](https://indraft.blog/2023/03/go-develop-ide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
