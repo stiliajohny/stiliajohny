@@ -45,11 +45,11 @@ Let's chat about Arch Linux, Docker, Microcontrollers, and IoT! When I'm not wor
   
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Komboloi: A Brief Introduction to the Traditional Greek Worry Beads](https://indraft.blog/2023/04/kompoloi/)
 - [The Top Priorities for Senior DevOps Engineers During Their First 90 Days on the Job](https://indraft.blog/2023/04/devops-90days/)
 - [Crontab vs Systemd Timers: Harnessing the Power of Scheduling in Modern Linux Systems](https://indraft.blog/2023/03/systemd_crontab/)
 - [Dodging Code Review Pitfalls: A Guide to Smoother Software Development](https://indraft.blog/2023/03/pr-mistakes/)
 - [Benefits And Drawbacks Of Using Aws Lambda For Serverless Application Development.](https://indraft.blog/2023/03/serverless_aws_lambda_benefits/)
-- [Unconcious Bias in hiring: The Impact of Recruitment Bias on the Workforce](https://indraft.blog/2023/03/recruitment-bias/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
