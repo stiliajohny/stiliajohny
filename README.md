@@ -45,11 +45,11 @@ Let's chat about Arch Linux, Docker, Microcontrollers, and IoT! When I'm not wor
   
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ahoy Matey! Charting Your Course to Kubernetes Deployment with Helm](https://indraft.blog/2023/04/helm-tutorial-1/)
 - [Streamlining Your Docker Workflow: Building Multi-Architecture Images with Buildx on MacBook M2](https://indraft.blog/2023/04/docker-buildx/)
 - [Effortlessly Connect your API to a Database with Kubernetes: A Step-by-Step Guide](https://indraft.blog/2023/04/k8s-learn-2-kubernetes_api_database_integration/)
 - [Kubernetes for Beginners: Deploying a Static Website Made Easy](https://indraft.blog/2023/04/k8s-learn-1/)
 - [Komboloi: A Brief Introduction to the Traditional Greek Worry Beads](https://indraft.blog/2023/04/kompoloi/)
-- [The Top Priorities for Senior DevOps Engineers During Their First 90 Days on the Job](https://indraft.blog/2023/04/devops-90days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
