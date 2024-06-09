@@ -32,7 +32,7 @@ Let's chat about Arch Linux, Docker, Microcontrollers, and IoT! When I'm not wor
 <img align="left" width="26px" src="https://simpleicons.org/icons/kubernetes.svg" /> 
 <img align="left" width="26px" src="https://simpleicons.org/icons/docker.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/proxmox.svg" />
-<img align="left" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
+<img align="left" width="26px" src="https://simpleicons.org/icons/amazonwebservices.svg" />
 
 
 </p>
