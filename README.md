@@ -22,7 +22,6 @@ Let's chat about Arch Linux, Docker, Microcontrollers, and IoT! When I'm not wor
 <img align="left" width="26px" src="https://simpleicons.org/icons/archlinux.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/vim.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/tmux.svg" /> 
-<img align="left" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" width="26px" src="https://simpleicons.org/icons/ansible.svg" /> 
 <img align="left" width="26px" src="https://simpleicons.org/icons/prometheus.svg" />
