@@ -10,7 +10,7 @@ Let's chat about Arch Linux, Docker, Microcontrollers, and IoT! When I'm not wor
   
 ### Connect with me:
   
-<a href="https://www.linkedin.com/in/johnstilia/r"> <img align="left" alt="stiliajohny | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/johnstilia/r"> <img align="left" alt="stiliajohny | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/linkedin.svg"/></a>
 <a href="mailto:stilia.johny@gmail.com"><img align="left" alt="stiliajohny | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
   
 <br>
